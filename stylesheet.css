@@ -19,7 +19,8 @@ li {
 
 .header-left {
   float: left;
-  padding: 10px 60px;
+  line-height: 65px;
+  padding-left: 30px;
   color: #ED7000;
   font-size: 30px;
 }
@@ -31,7 +32,8 @@ li {
 
 .header-right li {
   float: left;
-  padding: 20px 30px;
+  line-height: 65px;
+  padding: 0 30px;
   border-left: 1px solid #dddddd;
 }
 
@@ -52,7 +54,7 @@ li {
 .footer-left {
   float: left;
   width: 200px;
-  padding: 30px 100px;
+  padding: 30px;
 }
 
 .footer-left li {
