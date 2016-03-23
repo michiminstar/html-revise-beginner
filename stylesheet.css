@@ -5,7 +5,6 @@ h1, h2, h3, h4, h5, h6, p,
 form, input, div {
   margin: 0;
   padding: 0;
-  transition: all .8s ease;
 }
 
 li {
@@ -59,9 +58,7 @@ li {
 
 .footer-left li {
   margin-bottom: 5px;
-  /*文字の色を#808080にしてください*/
   color: #808080;
-  /*太さ1px 種類dotted 色#808080 のborder-bottomをつけてください*/
   border-bottom: 1px dotted #808080;
 }
 
